@@ -1,0 +1,72 @@
+h3{
+	color :blue;
+	font-size:7em;
+	background-color:PALEGOLDENROD;
+	
+}
+p{
+	color:purple;
+	background-color:silver;
+	font-size:20px;
+}
+.header1{
+	color:#056D90;
+	background-color:#BCC6CC;
+	font-size:40px;
+}
+.header2{
+	color:#756ECF;
+	background-color:#F4FBFE;
+	font-size:40px;
+}
+
+#h4{
+	color:#ECEAA1;
+	background-color:#520A4D;
+	font-size:3em;
+}
+.html_form
+{
+	color:#97AFB1;
+	background-color:#0FD8E9;
+	font-size:20px;
+	position:middle;
+}
+form{
+	width: 50%;
+	margin: 0 auto;
+	border:3px solid black;
+	padding: 20px;
+}
+.fname, .lname, .email, .mobileno, .password, .website, .houseno{
+	width: 80%;
+	padding: 7px;
+}
+.bday, .clstime, .month, .week, .admissiontime{
+	width: 50%;
+	padding: 8px;
+}
+#customers {
+  
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#customers td, #customers th {
+  border: 1px solid ;
+  padding: 8px;
+}
+
+#customers th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #EAE781;
+  color: white;
+}
+.color{
+	background-color:white;
+	
+}
+	
+}
